@@ -1,0 +1,116 @@
+.blackBorder {
+	border: 1px solid #000000;
+}
+
+
+.little {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+}
+.msgBox {
+	border: 1px solid #666666;
+
+}
+A.littleCopyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	color: #CCCCCC;
+	text-decoration: none;
+	font-weight:bold
+}
+A.littleCopyright:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	color: #FF9900;
+ 	text-decoration: none;
+	font-weight:bold
+}
+.littleNews {
+
+	font-family: tahoma, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+td {
+
+
+	font-family: tahoma, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+.titreAccueil
+ {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	font-weight:bold;
+	color:#2B4FBC;
+	
+}
+
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+}
+li {
+	list-style-type: square;
+	list-style-image: url(img/puce.gif);
+}
+a {
+	color: #0000FF;
+	text-decoration: none;
+}
+a:hover {
+
+	color: #FF66FF;
+	text-decoration: none;
+}
+
+a.topMenu {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+}
+a.topMenu:hover {
+
+	color: #FF66FF;
+	text-decoration: none;
+}
+
+
+select, select-one, textarea, input  {
+	font-family: tahoma, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	border: 1px solid #999999;
+}
+
+
+
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+}
+.tabDownloads {
+	border: 1px solid #9933CC;
+}
+.lineBottom {
+	border-bottom: 1px dotted #999999;
+}
+.new {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	font-weight: bold;
+	color: #FF0000;
+}
+body {
+
+
+
+	font-family: tahoma, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+}
